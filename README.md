@@ -2,6 +2,4 @@
 
 This is really awesome website
 
-Edit on example branch
-
-Updated locally, then remotelly
+Updates made on main on GitHub before rebase
